@@ -1,0 +1,10 @@
+.git
+.github
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.streamlit
+AI-article-1.png
+*.jpeg
+*.jpg
